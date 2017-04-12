@@ -6,7 +6,7 @@
         'complete-quiz-btn': {
             dk: 'Færdig',
             se: 'Färdiga',
-            fi: 'Päättynyt',
+            fi: 'Valmis',
             no: 'Ferdig',
             nl: 'Afgewerkt'
         },
