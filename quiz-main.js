@@ -13,21 +13,21 @@
         'incorrect-answers': {
             dk: ' forkerte svar',
             se: ' fel svar',
-            fi: ' väärä vastaus',
+            fi: ' väärin',
             no: ' feil svar',
             nl: ' fout antwoord'
         },
         'percentage': {
             dk: 'Procent rigtige svar: ',
             se: 'Procentuella rätta svaren: ',
-            fi: 'Prosentti oikeat vastaukset: ',
+            fi: 'Oikein: ',
             no: 'Prosent riktige svar: ',
             nl: 'Percentage correcte antwoorden: '
         },
         'correct-answers': {
             dk: ' korrekte svar',
             se: ' rätt svar',
-            fi: ' oikea vastaus',
+            fi: ' oikein',
             no: ' riktig svar',
             nl: ' correct antwoord'
         },
